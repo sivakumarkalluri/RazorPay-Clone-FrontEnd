@@ -1,4 +1,4 @@
-<h3>Welcome to my project! Here, I have cloned the "RazorPay" frontend web page using HTML, CSS and Tailwind CSS. The website is fully responsive and optimized for all devices.
+<h3>Welcome to my project! Here, I have cloned the "RazorPay" FrontEnd web page using HTML, CSS and Tailwind CSS. The webpage is fully responsive and optimized for all devices.
 </h3>
 
 <h4>Created by using </h4>
